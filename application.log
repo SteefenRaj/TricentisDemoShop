@@ -1,0 +1,4 @@
+2023-03-10 22:24:54,395  INFO [main] BaseClass:20 - Connect to Data Base
+2023-03-10 22:24:56,783  INFO [main] BrowserFactory:43 - chrome browser is opened
+2023-03-10 22:25:34,627  INFO [main] BaseClass:39 - Browser is closed
+2023-03-10 22:25:34,644  INFO [main] BaseClass:45 - Close Data Base
